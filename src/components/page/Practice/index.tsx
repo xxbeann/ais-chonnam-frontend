@@ -3,8 +3,8 @@ import React, { useEffect } from 'react'
 import { Grid } from '@mui/material'
 
 import 'styles/common.css'
-import Test from './Test'
 import { usePractice } from 'hooks'
+import Test from './Test'
 
 const Practice = () => {
 
