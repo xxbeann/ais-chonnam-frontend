@@ -1,4 +1,4 @@
 export const PAGES = {
-  PRIVACY_POLICY: '/privacy-policy',
-  REGISTRATION: '/registration',
+  PRIVACY_POLICY: '/example-page',
+  REGISTRATION: '/practice-page',
 }
